@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hello everybody👋
 
 - 🔭 I’m currently working on Python(django)
 - 🌱 I’m currently learning Flutter
