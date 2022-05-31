@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Web-Developer%20;and;%20Mobile%20App%20developer;Self-taught%20UI%2FUX%20Designer;Node%20Js%20Developer;Asp%20Dot%20Net%20Developer;%20Flutter%20Developer;3years%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Flutter-Developer%20;and;1year%20of%20coding%20experience;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <p align="center">
@@ -18,10 +18,6 @@
 
 <p align="center">
 <a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
-<a>
-<img src="https://media4.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif?cid=ecf05e47cjwlyt9w4vzwklu5cazoassvtuwrmkg44u25h0it&amp;rid=giphy.gif&amp;ct=s" alt="Web Development C Sticker by Putti Apps" style="width: 390px; height: 250px; left: 0px; top: 0px;">
-</a>
-<a><img src="https://media4.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif?cid=ecf05e47k6052alc3n7ea8fkjkg8sbvzg6pj6gfbd7an2j3j&amp;rid=giphy.gif&amp;ct=s" alt="Pc Coding Sticker by IYKRA.com" style="width: 500px; height: 500px; left: 0px; top: 0px;"></a>
 </p>
 
 <h1 align="center">Languages and Tools</h1>
