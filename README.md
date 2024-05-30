@@ -17,7 +17,6 @@
 <p align="center">
 <a><img src="https://media2.giphy.com/media/cUAGuLiEcTBwRfkAQq/giphy.gif?cid=ecf05e474bjrlcjt6yc7w0t20djokbtl9i4e9iqkie9anv8i&amp;rid=giphy.gif&amp;ct=s" alt="Coding Software Developer Sticker by Boolean Careers" style="width: 350px; height: 250px; left: 0px; top: 0px;"></a>&nbsp
 <a>
-<img align="left" alt="GIF" src="[https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgist.github.com%2Fvininjr%2Fd29bb07bdadb41e4b0923bc8fa748b1a&psig=AOvVaw2CkEcBpK2JqJjRN68vEX-K&ust=1717153308277000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCDudK9toYDFQAAAAAdAAAAABAE)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOVr1QwWhmZwPkH39itDVFJBiB3tfg69xfIF3CM6nvp0bDITg3)" />
 </p>
   
 <h1 align="center">Languages and Tools</h1>
