@@ -7,8 +7,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="400">
-   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB5b2Q0YzB3Y3Z6c3Z5dW1rZ3J3b2V1a2J6cHh0dG9tZzZ2Y3B5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="600">
 </p>
 
 
