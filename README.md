@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Flutter+%26+Dart+Developer;Building+Modern+Apps;Turning+Ideas+Into+Reality"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cross Platform+Architect;Building+Modern+Apps+&+Webs;Turning+Ideas+Into+Digital+Products"/>
 </p>
 
 
@@ -94,7 +94,6 @@ Apart from major projects, I also build small applications and experiments to ex
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousuf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousuf&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
