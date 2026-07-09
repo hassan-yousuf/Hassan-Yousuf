@@ -13,7 +13,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cross+Platform+Architect;Building+Modern+Apps+&+Webs;Turning+Ideas+Into+Digital+Products"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cross+Platform+Architect;Building+Modern+Apps+%26+Webs;Turning+Ideas+Into+Digital+Products"/>
 </p>
 
 
