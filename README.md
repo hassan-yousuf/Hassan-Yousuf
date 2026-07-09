@@ -7,7 +7,11 @@
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">
+
+<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
 </p>
 
 <p align="center">
@@ -87,32 +91,25 @@ Apart from major projects, I also build small applications and experiments to ex
 
 ## 📊 GitHub Analytics
 
-
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousuf&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousuf&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousuf&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
 </p>
 
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-yousuf&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-yousuf&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" width="40%"/>
 </p>
 
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousuf&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=hassan-yousuf&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
 </p>
 
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hassan-yousuf&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-yousuf&theme=tokyo-night&hide_border=true"/>
 </p>
 
 
@@ -123,8 +120,7 @@ Apart from major projects, I also build small applications and experiments to ex
 
 
 
-## 🌐 Contact
-
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -132,8 +128,8 @@ Apart from major projects, I also build small applications and experiments to ex
 <img src="https://img.shields.io/badge/Contact-blue?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a>
-<img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=googlechrome"/>
+<a href="https://hassan-sakaria.web.app">
+<img src="https://img.shields.io/badge/Visit%20Portfolio-black?style=for-the-badge&logo=googlechrome"/>
 </a>
 
 </p>
