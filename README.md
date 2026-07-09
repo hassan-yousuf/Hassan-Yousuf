@@ -7,11 +7,12 @@
 </h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="430">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzB5b2Q0YzB3Y3Z6c3Z5dW1rZ3J3b2V1a2J6cHh0dG9tZzZ2Y3B5dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" width="650"/>
+</p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250">
-
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250">
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3Q4c3J0N2R4dGZqN3FqY3Z5d2E4c2V0dGJ4eG5jZ3Q2Z3NqZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="250"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2N3YzZ4a2Q0cHZqYzV6aDk2b3F2eHc2YjJ4dW5yYzZ4cTg4ZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3q2K5jinAlChoCLS/giphy.gif" width="250"/>
 </p>
 
 <p align="center">
@@ -92,32 +93,24 @@ Apart from major projects, I also build small applications and experiments to ex
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousuf&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousuf&theme=tokyonight&hide_border=true&border_radius=15" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousuf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousuf&theme=tokyonight&hide_border=true" width="48%"/>
 </p>
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-yousuf&layout=donut&langs_count=8&theme=tokyonight&hide_border=true&border_radius=15" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-yousuf&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="45%"/>
 </p>
 
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=hassan-yousuf&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=hassan-yousuf&theme=tokyonight&no-frame=true&margin-w=15"/>
 </p>
 
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-yousuf&theme=tokyo-night&hide_border=true"/>
 </p>
-
-
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-yousuf&theme=tokyo-night&hide_border=true"/>
-
 
 
 ## 🌐 Connect With Me
@@ -129,7 +122,7 @@ Apart from major projects, I also build small applications and experiments to ex
 </a>
 
 <a href="https://hassan-sakaria.web.app">
-<img src="https://img.shields.io/badge/Visit%20Portfolio-black?style=for-the-badge&logo=googlechrome"/>
+<img src="https://img.shields.io/badge/Visit%20Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 </p>
