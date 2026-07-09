@@ -82,9 +82,9 @@ Various small applications and experiments built while learning and exploring ne
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousus&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hassan-yousuf&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-yousus&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassan-yousuf&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -94,7 +94,7 @@ Various small applications and experiments built while learning and exploring ne
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousus&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=hassan-yousuf&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -102,7 +102,7 @@ Various small applications and experiments built while learning and exploring ne
 ## 📈 Contribution Graph
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-yousus&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hassan-yousuf&theme=tokyo-night&hide_border=true"/>
 
 
 
